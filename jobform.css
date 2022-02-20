@@ -1,0 +1,165 @@
+#one{
+    width: 75%;
+    border-bottom: 0px;
+    border-style:groove;
+    border-top-left-radius:5px;
+    border-top-right-radius: 5px;
+    padding: 10px;
+    margin: auto ;
+}
+#two{
+    width: 75%;
+    border-style:groove;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 10px;
+    margin: auto ;            
+}
+#three{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#three input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#four{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#four input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#five{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#five input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#six{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#six input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#seven{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#seven input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#eight{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#eight input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#nine{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#nine input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#ten{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#ten input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#eleven{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#eleven input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#twelve{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+#twelve input[type=text] {
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#thirteen{
+    width: 75%;
+    border-style:groove;
+    border-radius:5px;
+    padding: 10px;
+    margin: auto ;
+}
+input[type='file'] {
+width:5px;
+opacity:0
+}
+#fourteen{
+    text-decoration: none;
+    position: absolute;
+    left: 12%;
+}
+#fourteen a{
+    padding: 10px;
+    color: blue;
+    text-decoration: none;
+}
+#fourteen button{
+    border-radius: 5px;
+}
+#fifteen{
+    position: absolute;
+    left: 80%;
+}
